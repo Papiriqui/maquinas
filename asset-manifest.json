@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/maquinas/static/css/main.b0bbc93d.css",
+    "main.js": "/maquinas/static/js/main.df3aba95.js",
+    "static/media/fa-solid-900.ttf": "/maquinas/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/retro.jpg": "/maquinas/static/media/retro.75b1ff75ee333ac78317.jpg",
+    "static/media/generadorImg.jpg": "/maquinas/static/media/generadorImg.2b4d5a2e293e0719eefd.jpg",
+    "static/media/fa-brands-400.ttf": "/maquinas/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/pitbull.jpg": "/maquinas/static/media/pitbull.f3abdc2ee0e6e7eb4cd5.jpg",
+    "static/media/fa-solid-900.woff2": "/maquinas/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/minica.jpg": "/maquinas/static/media/minica.b002211de1bbe5644cf5.jpg",
+    "static/media/fa-brands-400.woff2": "/maquinas/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/fa-regular-400.ttf": "/maquinas/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/conver.jpg": "/maquinas/static/media/conver.060490ae598a55602158.jpg",
+    "static/media/sen.jpg": "/maquinas/static/media/sen.5ced2680d82274738d82.jpg",
+    "static/media/plancha.jpg": "/maquinas/static/media/plancha.8bcb3ed12160b6119e73.jpg",
+    "static/media/fa-regular-400.woff2": "/maquinas/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/vibropisonador.jpg": "/maquinas/static/media/vibropisonador.729602a950c7d948e6bc.jpg",
+    "static/media/martillo.jpg": "/maquinas/static/media/martillo.8229f5b2f3fb3abb02fd.jpg",
+    "static/media/fa-v4compatibility.ttf": "/maquinas/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/fa-v4compatibility.woff2": "/maquinas/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "index.html": "/maquinas/index.html",
+    "main.b0bbc93d.css.map": "/maquinas/static/css/main.b0bbc93d.css.map",
+    "main.df3aba95.js.map": "/maquinas/static/js/main.df3aba95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0bbc93d.css",
+    "static/js/main.df3aba95.js"
+  ]
+}
